@@ -56,8 +56,6 @@ Alerts & High-Risk Engines
 Download Center
 
 📁 Folder Structure
-css
-Copy code
 predictive_maintenance/
 ├── dashboards/
 │   └── dashboard_predictive_maintenance.py
@@ -80,13 +78,11 @@ predictive_maintenance/
 ✅ How to Run
 Install dependencies:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Launch the dashboard:
 
-bash
-Copy code
+
 streamlit run dashboards/dashboard_predictive_maintenance.py
 📥 Outputs
 CSVs:
