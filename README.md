@@ -103,7 +103,6 @@ Anomaly alert logic
 
 Streamlit dashboarding
 
-GitHub portfolio readiness
 
 👤 Author
 Arushi Sharma
